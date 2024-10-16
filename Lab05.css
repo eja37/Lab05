@@ -55,3 +55,7 @@
 .hidden-element{
     display: none;
 }
+
+.invisible-element{
+    visibility: hidden;
+}
