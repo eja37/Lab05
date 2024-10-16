@@ -56,6 +56,10 @@
     display: none;
 }
 
+.visible-element{
+    visibility: visible;
+}
+
 .invisible-element{
     visibility: hidden;
 }
