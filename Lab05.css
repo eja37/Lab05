@@ -22,3 +22,9 @@
 .border-box{
     border: solid 2px;
 }
+
+.rounded-border{
+    border: dotted 3px;
+    color: red;
+    border-radius: 15px;
+}
