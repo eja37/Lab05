@@ -43,3 +43,7 @@
 .inline-element{
     display: inline;
 }
+
+.block-element{
+    display: block;
+}
