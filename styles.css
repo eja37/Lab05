@@ -1,0 +1,16 @@
+nav ul li{
+    list-style: none;
+    display: inline;
+    color: black;
+    width: 300px;
+    margin: 50px;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+div{
+    width: 600px;
+    height: 50px;
+    background-color: rgba(127, 255, 212, 0.4);
+}
